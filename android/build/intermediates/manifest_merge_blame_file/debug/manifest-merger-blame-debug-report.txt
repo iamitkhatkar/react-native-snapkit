@@ -1,0 +1,28 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.snapchat.kit.sdk.reactnative"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml
+10
+11    <application>
+11-->/Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml:4:5-14:19
+12
+13        <!--
+14            Metadata flag that we pass into the Android SDK to record that the request 
+15            is from React Native plugin.
+16        -->
+17        <meta-data
+17-->/Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml:10:9-12:36
+18            android:name="com.snapchat.kit.sdk.isFromReactNativePlugin"
+18-->/Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml:11:13-72
+19            android:value="true" />
+19-->/Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml:12:13-33
+20    </application>
+21
+22</manifest>

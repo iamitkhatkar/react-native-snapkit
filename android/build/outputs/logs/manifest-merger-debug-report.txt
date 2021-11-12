@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml:1:1-16:12
+	package
+		ADDED from /Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml:2:11-53
+		INJECTED from /Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml
+		ADDED from /Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml:1:1-16:12
+		INJECTED from /Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml
+		ADDED from /Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml:1:1-16:12
+		INJECTED from /Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml:4:5-14:19
+meta-data#com.snapchat.kit.sdk.isFromReactNativePlugin
+ADDED from /Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml:10:9-12:36
+	android:value
+		ADDED from /Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml:12:13-33
+	android:name
+		ADDED from /Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml:11:13-72
+uses-sdk
+INJECTED from /Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml
+INJECTED from /Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml
+INJECTED from /Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml
+INJECTED from /Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml
+		ADDED from /Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml
+		ADDED from /Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/amitkhatkar/Desktop/projects/humit/HumitAndroid/node_modules/@snapchat/snap-kit-react-native/android/src/main/AndroidManifest.xml

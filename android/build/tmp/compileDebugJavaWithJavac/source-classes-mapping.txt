@@ -1,0 +1,2 @@
+com/snapchat/kit/sdk/reactnative/BuildConfig.java
+ com.snapchat.kit.sdk.reactnative.BuildConfig
